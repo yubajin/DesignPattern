@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+	<className>TCLTVFactory</className>
+	<className>HaierTVFactory</className>
+	<className>HisenseTVFactory</className>
+</config>
